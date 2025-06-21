@@ -88,7 +88,7 @@ dependencies {
     implementation("io.coil-kt:coil-compose:2.5.0")
 
     // Datastore
-    implementation("androidx.datastore:datastore-preferences:1.0.0")
+    implementation("androidx.datastore:datastore-preferences:1.1.7")
     implementation("androidx.datastore:datastore-preferences-core:1.0.0")
 
     // Room
