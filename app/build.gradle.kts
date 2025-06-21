@@ -92,7 +92,7 @@ dependencies {
     implementation("androidx.datastore:datastore-preferences-core:1.0.0")
 
     // Room
-    val room_version = "2.6.1"
+    val room_version = "2.7.2"
 
     implementation("androidx.room:room-runtime:$room_version")
     annotationProcessor("androidx.room:room-compiler:$room_version")
