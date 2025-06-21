@@ -89,7 +89,7 @@ dependencies {
 
     // Datastore
     implementation("androidx.datastore:datastore-preferences:1.0.0")
-    implementation("androidx.datastore:datastore-preferences-core:1.0.0")
+    implementation("androidx.datastore:datastore-preferences-core:1.1.7")
 
     // Room
     val room_version = "2.6.1"
