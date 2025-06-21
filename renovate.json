@@ -1,16 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended",
-    ":dependencyDashboard"
+    "config:recommended"
   ],
-  "forkProcessing": "enabled",
-  "automerge": false,
-  "lockFileMaintenance": {
-    "enabled": true,
-    "automerge": false,
-    "automergeType": "pr",
-    "platformAutomerge": false
-  },
-  "includeForks": false
+  "forkProcessing": "enabled"
 }
