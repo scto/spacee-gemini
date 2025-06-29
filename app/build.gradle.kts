@@ -100,7 +100,7 @@ dependencies {
     implementation("androidx.room:room-ktx:$room_version")
 
     // Serialization
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.9.0")
 
     // Ktor
     implementation("io.ktor:ktor-client-core:2.3.7")
