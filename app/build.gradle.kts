@@ -76,7 +76,7 @@ dependencies {
     implementation("androidx.compose.runtime:runtime-livedata:1.5.4")
 
     // Gemini api dependency
-    implementation("com.google.ai.client.generativeai:generativeai:0.1.1")
+    implementation("com.google.ai.client.generativeai:generativeai:0.9.0")
 
     //Navigation and Material-Design
     implementation("androidx.navigation:navigation-compose:2.7.6")
